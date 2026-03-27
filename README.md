@@ -3,3 +3,6 @@ Developed an environment-sensing system to control a rotary fan using an RRH6200
 Designed a control system for a brushless DC fan to optimize noise and response speed
 
 Created an asynchronous state machine with voltage protection for buck regulator sequencing
+
+https://docs.google.com/document/d/1t5Q8Yj6zMPVgsXxVW7tjsufJl_3Un_cIc73pMM-QrHw/edit?tab=t.0
+
